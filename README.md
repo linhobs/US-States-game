@@ -5,3 +5,6 @@ python main.py
 
 have fun. 
 add to the project if you can. 
+
+## How to exit
+Enter "Exit" in the textinput box to exit the game
